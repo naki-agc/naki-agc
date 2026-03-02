@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Naki Ağca</h1>
-<h3 align="center">🚀 Sr. Backend Developer | .NET Enthusiast </h3>
+<h3 align="center">🚀 Backend Developer | .NET Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-naki-ağca" target="_blank">
